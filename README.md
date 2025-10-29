@@ -21,7 +21,7 @@ A user-friendly graphical interface for [Docling](https://github.com/DS4SD/docli
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOURUSERNAME/docling-gui.git
+git clone https://github.com/y-nnic/docling-gui.git
 cd docling-gui
 ```
 
